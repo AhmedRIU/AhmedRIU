@@ -12,7 +12,7 @@ Hi , I'm Muhammad Ahmed Ramzan
 - 📈 Skilled in **CI/CD pipelines**, **API integrations**, and **frontend performance optimization**
 - 🌱 Currently learning **Next.js**, **GraphQL**, and **AWS advanced services**
 - 🤝 Open to collaborating on **full-stack applications** and **DevOps projects**
-- 📧 Reach me at: **youremail@example.com**
+- 📧 Reach me at: **iamahmedramzan1@gmail.com**
 
 ---
 
