@@ -1,7 +1,6 @@
-Hi , I'm Muhammad Ahmed Ramzan
+# Hi 👋, I'm Muhammad Ahmed Ramzan
 
-💻 DevOps Engineer | MERN Stack Developer | React Frontend Specialist | Frontend Developer | React.js & Next.js | HTML5, CSS3, Tailwind CSS | JavaScript (ES5/ES6)
-
+💻 **DevOps Engineer | MERN Stack Developer | React Frontend Specialist | Frontend Developer | React.js & Next.js | HTML5, CSS3, Tailwind CSS | JavaScript (ES5/ES6)**  
 🌍 Based in Pakistan  
 
 ---
@@ -26,7 +25,7 @@ Hi , I'm Muhammad Ahmed Ramzan
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedRIU&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRIUE&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRIU&layout=compact&theme=tokyonight)
 
 ---
 
