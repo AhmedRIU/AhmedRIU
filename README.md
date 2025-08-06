@@ -30,7 +30,8 @@
 ---
 
 ### 🚀 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=AhmedRIU&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=AhmedRIU&theme=tokyonight&hide_border=true)
+
 
 
 ---
