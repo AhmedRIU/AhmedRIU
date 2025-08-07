@@ -1,11 +1,6 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ahmed Ramzan</h1>
-
-<p align="center">
-  <video width="400" autoplay loop muted playsinline>
-    <source src="assets/name-animation.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Muhammad+Ahmed+Ramzan+👨🏻‍💻;" />
+</h1>
 
 
 
