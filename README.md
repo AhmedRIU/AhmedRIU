@@ -28,6 +28,16 @@
 **Others:** Git, REST APIs, GraphQL, WebSockets  
 
 ---
+<h2 align="center">🚀💥 Tools & Technologies 💥🚀</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,angular,javascript,typescript,express,nodejs,nestjs,github,tailwind,git,linux,docker,kubernetes,gitlab,azure" />
+    <img src="https://skillicons.dev/icons?i=prometheus,postgresql,supabase,prisma,firebase,mongodb,nextjs,nuxt,graphql,laravel,jenkins,terraform,aws,ansible,grafana" /><br>
+</div>
+<br/>
+
+
+
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedRIU&show_icons=true&theme=tokyonight)  
