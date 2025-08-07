@@ -1,64 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Muhammad Ahmed Ramzan Animation</title>
-  <style>
-    body {
-      background-color: #0f172a;
-      color: #fff;
-      font-family: 'Segoe UI', sans-serif;
-      display: flex;
-      height: 100vh;
-      align-items: center;
-      justify-content: center;
-    }
+<h1 align="center">
+  <svg width="100%" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" font-size="28" fill="#38bdf8">
+      <tspan id="word1">Muhammad</tspan>
+      <tspan id="word2" opacity="0"> Ahmed</tspan>
+      <tspan id="word3" opacity="0"> Ramzan</tspan>
+      <animate attributeName="opacity" xlink:href="#word2" to="1" dur="0.8s" begin="1s" fill="freeze"/>
+      <animate attributeName="opacity" xlink:href="#word3" to="1" dur="0.8s" begin="2s" fill="freeze"/>
+    </text>
+  </svg>
+</h1>
 
-    .animated-name {
-      font-size: 2.5rem;
-      font-weight: bold;
-      display: flex;
-      gap: 10px;
-    }
-
-    .word {
-      opacity: 0;
-      animation: fadeIn 0.8s forwards;
-    }
-
-    .word:nth-child(1) {
-      animation-delay: 0s;
-    }
-
-    .word:nth-child(2) {
-      animation-delay: 0.8s;
-    }
-
-    .word:nth-child(3) {
-      animation-delay: 1.6s;
-    }
-
-    @keyframes fadeIn {
-      to {
-        opacity: 1;
-        transform: translateY(0);
-      }
-      from {
-        opacity: 0;
-        transform: translateY(10px);
-      }
-    }
-  </style>
-</head>
-<body>
-  <div class="animated-name">
-    <span class="word">Muhammad</span>
-    <span class="word">Ahmed</span>
-    <span class="word">Ramzan</span>
-  </div>
-</body>
-</html>
 
 
 💻 **DevOps Engineer | MERN Stack Developer | React Frontend Specialist | Frontend Developer | React.js & Next.js | HTML5, CSS3, Tailwind CSS | JavaScript (ES5/ES6)**  
