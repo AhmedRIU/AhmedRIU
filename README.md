@@ -53,10 +53,6 @@
 ---
 
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-ahmed-ramzan-575300162/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://my-portfolio-website-six-omega.vercel.app/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iamahmedramzan1@gmail.com)
-
 <div align="center"> 
   <a href="mailto:iamahmedramzan1@gmail.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
