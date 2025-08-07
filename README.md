@@ -1,4 +1,65 @@
-# Hi 👋, I'm Muhammad Ahmed Ramzan
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Muhammad Ahmed Ramzan Animation</title>
+  <style>
+    body {
+      background-color: #0f172a;
+      color: #fff;
+      font-family: 'Segoe UI', sans-serif;
+      display: flex;
+      height: 100vh;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .animated-name {
+      font-size: 2.5rem;
+      font-weight: bold;
+      display: flex;
+      gap: 10px;
+    }
+
+    .word {
+      opacity: 0;
+      animation: fadeIn 0.8s forwards;
+    }
+
+    .word:nth-child(1) {
+      animation-delay: 0s;
+    }
+
+    .word:nth-child(2) {
+      animation-delay: 0.8s;
+    }
+
+    .word:nth-child(3) {
+      animation-delay: 1.6s;
+    }
+
+    @keyframes fadeIn {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+      from {
+        opacity: 0;
+        transform: translateY(10px);
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="animated-name">
+    <span class="word">Muhammad</span>
+    <span class="word">Ahmed</span>
+    <span class="word">Ramzan</span>
+  </div>
+</body>
+</html>
+
 
 💻 **DevOps Engineer | MERN Stack Developer | React Frontend Specialist | Frontend Developer | React.js & Next.js | HTML5, CSS3, Tailwind CSS | JavaScript (ES5/ES6)**  
 🌍 Based in Pakistan  
