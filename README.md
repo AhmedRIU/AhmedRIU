@@ -1,14 +1,12 @@
-<h1 align="center">
-  <svg width="100%" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" font-size="28" fill="#38bdf8">
-      <tspan id="word1">Muhammad</tspan>
-      <tspan id="word2" opacity="0"> Ahmed</tspan>
-      <tspan id="word3" opacity="0"> Ramzan</tspan>
-      <animate attributeName="opacity" xlink:href="#word2" to="1" dur="0.8s" begin="1s" fill="freeze"/>
-      <animate attributeName="opacity" xlink:href="#word3" to="1" dur="0.8s" begin="2s" fill="freeze"/>
-    </text>
-  </svg>
-</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Ahmed Ramzan</h1>
+
+<p align="center">
+  <video width="400" autoplay loop muted playsinline>
+    <source src="assets/name-animation.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
 
 
 
