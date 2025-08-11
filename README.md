@@ -52,6 +52,9 @@
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AhmedRIU&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ### 📫 Connect With Me
 <div align="center"> 
   <a href="mailto:iamahmedramzan1@gmail.com" target="_blank"> 
