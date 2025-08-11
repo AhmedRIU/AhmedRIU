@@ -12,7 +12,10 @@
 
 ---
 
-### 👨‍💻 About Me
+<h3 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Open+Sans&weight=400&color=000000&size=25&center=false&vCenter=true&width=400&height=40&duration=2000&lines=👨‍💻+About+Me" />
+</h3>
+
 - 🚀 Specializing in **DevOps automation** & **MERN stack development**
 - ⚡ Passionate about **React**, **Node.js**, **Docker**, **Kubernetes**, and **Cloud Infrastructure**
 - 📈 Skilled in **CI/CD pipelines**, **API integrations**, and **frontend performance optimization**
