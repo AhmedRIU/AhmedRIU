@@ -36,7 +36,7 @@
 
 ---
 
-<h2 align="center">
+<h2 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Open+Sans&weight=400&color=000000&size=30&center=true&vCenter=true&width=500&height=70&duration=2000&lines=🚀+💥+Tools+%26+Technologies+🚀+💥" />
 </h2>
 <br/>
@@ -52,7 +52,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Open+Sans&weight=400&color=000000&size=25&center=false&vCenter=true&width=400&height=40&duration=2000&lines=📊+GitHub+Stats" />
 </h3>
 
-/////### 📊 GitHub Stats////
+<!--### 📊 GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedRIU&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRIU&layout=compact&theme=tokyonight)
 
