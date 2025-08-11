@@ -32,9 +32,6 @@
 <h2 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Open+Sans&weight=400&color=000000&size=30&center=true&vCenter=true&width=500&height=70&duration=2000&lines=🚀+💥+Tools+%26+Technologies+🚀+💥" />
 </h2>
-
-
-<h2 align="center">🚀💥 Tools & Technologies 💥🚀</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,angular,javascript,typescript,express,nodejs,nestjs,github,tailwind,git,linux,docker,kubernetes,gitlab,azure" />
