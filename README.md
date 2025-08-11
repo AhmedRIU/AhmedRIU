@@ -48,7 +48,10 @@
 
 ---
 
-### 🚀 Contribution Streak
+<h3 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Open+Sans&weight=400&color=000000&size=25&center=false&vCenter=true&width=400&height=40&duration=2000&lines=🚀+Contribution+Streak+🚀" />
+</h3>
+
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=AhmedRIU&theme=tokyonight&hide_border=true)
 
 
