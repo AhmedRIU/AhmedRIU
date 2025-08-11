@@ -54,9 +54,6 @@
 
 
 ---
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Open+Sans&weight=400&color=000000&size=25&center=true&vCenter=true&width=400&height=40&duration=2000&lines=📫+Connect+With+Me" />
-</h3>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AhmedRIU&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
