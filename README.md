@@ -67,10 +67,9 @@
 
 ---
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Open+Sans&weight=400&color=000000&size=25&center=true&vCenter=true&width=400&height=40&duration=2000&lines=📫+Connect+With+Me" />
+<h3 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Open+Sans&weight=400&color=000000&size=25&center=false&vCenter=true&width=400&height=40&duration=2000&lines=📫+Connect+With+Me" />
 </h3>
-
 
 <div align="center"> 
   <a href="mailto:iamahmedramzan1@gmail.com" target="_blank"> 
