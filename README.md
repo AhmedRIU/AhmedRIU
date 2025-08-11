@@ -30,7 +30,7 @@
 ---
 
 <h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&weight=400&color=000000&size=30&center=true&vCenter=true&width=500&height=70&duration=2000&lines=🚀💥+Tools+%26+Technologies+🚀💥" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&weight=400&color=000000&size=30&center=true&vCenter=true&width=500&height=70&duration=2000&lines=🚀+💥+Tools+%26+Technologies+🚀+💥" />
 </h2>
 
 <h2 align="center">🚀💥 Tools & Technologies 💥🚀</h2>
