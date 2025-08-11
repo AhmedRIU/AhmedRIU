@@ -62,7 +62,6 @@
 
 ### 📫 Connect With Me
 
-<br/>
 
 <div align="center"> 
   <a href="mailto:iamahmedramzan1@gmail.com" target="_blank"> 
