@@ -85,7 +85,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Open+Sans&weight=400&color=000000&size=25&center=false&vCenter=true&width=400&height=40&duration=2000&lines=🏆+GitHub+Trophies" />
 </h3>
 
-(https://github-profile-trophy.vercel.app/?username=AhmedRIU&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=AhmedRIU&theme=tokyonight&column=4&margin-w=10&margin-h=10&no-frame=true)
 
 ---
 
