@@ -77,7 +77,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Open+Sans&weight=400&color=000000&size=25&center=false&vCenter=true&width=400&height=40&duration=2000&lines=🆙+Top+Contributed+Repo" />
 </h3>
 
-![](https://github-contributor-stats.vercel.app/api?username=AhmedRIU&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h3 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Open+Sans&weight=400&color=000000&size=25&center=false&vCenter=true&width=450&height=40&duration=2000&lines=🏆+GitHub+Trophies" />
+</h3>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=AhmedRIU&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" />
+</p>
+
 
 ---
 
