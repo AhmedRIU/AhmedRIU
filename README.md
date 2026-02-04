@@ -2,11 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=000000&size=40&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Muhammad+Ahmed+Ramzan+👨🏻‍💻;" />
 </h1>
 
-
-
-
-
-💻 **Junior Security Analyst & System & TSE Engineer | Penetration Tester | Metasploit | Burp Suite | Nmap | Wireshark | Kali Linux | Nessus | SQLmap | Red Teaming | Blue Teaming | Active Directory | VMware | Windows Server**  
+💻 **Junior Security Analyst | SOC Analyst | System & TSE Engineer | Penetration Tester**  
+🛡️ **Vulnerability Assessment | Incident Response | Threat Detection | Red Teaming | Blue Teaming | Active Directory | Windows Server | VMware**  
 
 🌍 Based in Pakistan  
 
@@ -16,11 +13,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Open+Sans&weight=400&color=000000&size=25&center=false&vCenter=true&width=400&height=40&duration=2000&lines=👨‍💻+About+Me" />
 </h3>
 
-- 🚀 Specializing in **DevOps automation** & **MERN stack development**
-- ⚡ Passionate about **React**, **Node.js**, **Docker**, **Kubernetes**, and **Cloud Infrastructure**
-- 📈 Skilled in **CI/CD pipelines**, **API integrations**, and **frontend performance optimization**
-- 🌱 Currently learning **Next.js**, **GraphQL**, and **AWS advanced services**
-- 🤝 Open to collaborating on **full-stack applications** and **DevOps projects**
+- 🚀 Hands-on experience identifying, analyzing, and mitigating **security threats** across IT and enterprise environments
+- 🔍 Performed **penetration testing & vulnerability assessments** using Burp Suite, Nmap, Wireshark, Kali Linux, Nessus, SQLmap, Metasploit, and Splunk
+- 🛡️ Monitored and analyzed **SOC-style logs**, handled alerts, investigated suspicious activity, and supported incident response
+- 🌐 Conducted **network scanning & traffic analysis** to detect vulnerabilities, misconfigurations, open ports, and insecure services
+- 🎯 Practiced **Red Team (attack simulation)** and **Blue Team (detection & mitigation)** skills + worked on **bug bounty platforms**
+- 🧾 Created **security reports**, documented vulnerabilities, and communicated risks effectively
+- 🧠 Strong foundational networking knowledge (CCNA concepts): **TCP/IP, UDP, Subnetting, Routing Basics, OSI Model**
+- 🏢 Built and managed a **dummy enterprise environment for NGTSOL** on VMware (ADC, CDC, RODC) to simulate a corporate setup
+- 🖥️ Managed **Active Directory** (Users, Groups, OUs, Permissions, Password Policies) and troubleshot **DNS, GPO, Replication, Login issues**
+- ⚙️ Configured Windows Server services: **DNS, DHCP, NPS, Print Server, WSUS, Remote Access, ADFS**
+- 🔑 Developed understanding of **FSMO roles** and their importance in domain management
+- 🏅 Completed practical cybersecurity certifications from **TryHackMe** and **HackVisor**
 - 📧 Reach me at: **iamahmedramzan1@gmail.com**
 
 ---
@@ -29,10 +33,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Open+Sans&weight=400&color=000000&size=25&center=false&vCenter=true&width=400&height=40&duration=2000&lines=🛠+Tech+Stack" />
 </h3>
 
-**Frontend:** React.js, Next.js, TailwindCSS, Bootstrap  
-**Backend:** Node.js, Express.js, MongoDB, MySQL  
-**DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions, AWS, Nginx  
-**Others:** Git, REST APIs, GraphQL, WebSockets  
+**Security Tools:** Burp Suite, Nmap, Wireshark, Kali Linux, Nessus, SQLmap, Metasploit, Splunk  
+**SOC Skills:** Log Monitoring, Alert Triage, Incident Investigation, Threat Detection, Reporting  
+**Windows & Infra:** Active Directory, Group Policy, Windows Server, VMware  
+**Networking:** TCP/IP, UDP, Subnetting, Routing Basics, OSI Model  
 
 ---
 
@@ -52,7 +56,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Open+Sans&weight=400&color=000000&size=25&center=false&vCenter=true&width=400&height=40&duration=2000&lines=📊+GitHub+Stats" />
 </h3>
 
-<!--### 📊 GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedRIU&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRIU&layout=compact&theme=tokyonight)
 
@@ -64,9 +67,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=AhmedRIU&theme=tokyonight&hide_border=true)
 
-
-
 ---
+
 <h3 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Open+Sans&weight=400&color=000000&size=25&center=false&vCenter=true&width=400&height=40&duration=2000&lines=🆙+Top+Contributed+Repo" />
 </h3>
