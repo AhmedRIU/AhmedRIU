@@ -56,8 +56,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Open+Sans&weight=400&color=000000&size=25&center=false&vCenter=true&width=400&height=40&duration=2000&lines=📊+GitHub+Stats" />
 </h3>
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AhmedRIU&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AhmedRIU&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedRIU&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=00000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRIU&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
+
 
 
 
