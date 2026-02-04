@@ -50,7 +50,6 @@
 </div>
 <br/>
 
----
 <div align="center">
 
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
@@ -59,10 +58,31 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Metasploit-0B0B0B?style=for-the-badge&logo=metasploit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nessus-00A4EF?style=for-the-badge&logo=tenable&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenVAS-2E7D32?style=for-the-badge&logo=securityscorecard&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nikto-000000?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gobuster-4B0082?style=for-the-badge&logo=gnometerminal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/John%20The%20Ripper-8B0000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hashcat-FF6F00?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hydra-1E88E5?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netcat-000000?style=for-the-badge&logo=gnometerminal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Responder-0D47A1?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BloodHound-B71C1C?style=for-the-badge&logo=datadog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mimikatz-1976D2?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Impacket-263238?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CrackMapExec-424242?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wazuh-0057B8?style=for-the-badge&logo=wazuh&logoColor=white"/>
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Graylog-FF9800?style=for-the-badge&logo=graylog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
 </div>
+<br/>
+
+
+---
+
 <br/>
 
 <h3 align="left">
