@@ -73,12 +73,14 @@
 ---
 
 <h3 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Open+Sans&weight=400&color=000000&size=25&center=false&vCenter=true&width=450&height=40&duration=2000&lines=🏆+GitHub+Trophies" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Open+Sans&weight=400&color=000000&size=25&center=false&vCenter=true&width=450&height=40&duration=2000&lines=🏆+GitHub+Highlights" />
 </h3>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmedRIU&theme=tokyonight&column=4&margin-w=10&margin-h=10&no-frame=true&no-bg=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedRIU&theme=tokyonight" />
 </p>
+
+
 
 
 ---
