@@ -13,7 +13,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Open+Sans&weight=400&color=000000&size=25&center=false&vCenter=true&width=400&height=40&duration=2000&lines=👨‍💻+About+Me" />
 </h3>
 
-- 🚀 Hands-on experience identifying, analyzing, and mitigating **security threats** across IT and enterprise environments
+- 👨‍💼 I am a **Junior Security Analyst**, **System Engineer**, and **TSE Engineer** with hands-on experience in enterprise IT environments.
 - 🔍 Performed **penetration testing & vulnerability assessments** using Burp Suite, Nmap, Wireshark, Kali Linux, Nessus, SQLmap, Metasploit, and Splunk
 - 🛡️ Monitored and analyzed **SOC-style logs**, handled alerts, investigated suspicious activity, and supported incident response
 - 🌐 Conducted **network scanning & traffic analysis** to detect vulnerabilities, misconfigurations, open ports, and insecure services
