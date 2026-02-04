@@ -6,7 +6,7 @@
 
 
 
-💻 **DevOps Engineer | MERN Stack Developer | React Frontend Specialist | Frontend Developer | React.js & Next.js | HTML5, CSS3, Tailwind CSS | JavaScript (ES5/ES6)**  
+💻 **Junior Security Analyst & System & TSE Engineer | Penetration Tester | Metasploit | Burp Suite | Nmap | Wireshark | Kali Linux | Nessus | SQLmap | Red Teaming | Blue Teaming | Active Directory | VMware | Windows Server**  
 
 🌍 Based in Pakistan  
 
